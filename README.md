@@ -1,4 +1,4 @@
-# Go API client for swagger
+# Switch Database REST API Go client
 
 Switch API is the primary endpoint of data sevices and Switch DB's platform. You can do adding, editing, deleting or listing data works to your database with query operations by using this low-level API based on HTTP.
 
@@ -37,13 +37,6 @@ Class | Method | HTTP request | Description
  - [SetResponse](docs/SetResponse.md)
  - [WhereItem](docs/WhereItem.md)
 
+## Authors
 
-## Documentation For Authorization
-
- All endpoints do not require authorization.
-
-
-## Author
-
-
-
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
